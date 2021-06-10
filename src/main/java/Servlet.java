@@ -29,8 +29,8 @@ public class Servlet extends HttpServlet {
         writer.println("<html>");
         writer.println(
                 "<h1 align=\"center\">" +
-                        "Первая строка" +
-                        "Вторая строка" +
+                        "Первая строка<br>" +
+                        "Вторая строка<br>" +
                         "</h1>"
         );
         writer.println("</html>");
