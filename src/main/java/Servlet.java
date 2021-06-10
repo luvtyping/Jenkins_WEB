@@ -32,6 +32,7 @@ public class Servlet extends HttpServlet {
                         "Первая строка<br>" +
                         "Вторая строка<br>" +
                         "Третья строка<br>" +
+                        "Четвертая строка<br>" +
                         "</h1>"
         );
         writer.println("</html>");
