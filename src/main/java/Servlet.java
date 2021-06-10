@@ -31,7 +31,7 @@ public class Servlet extends HttpServlet {
                 "<h1 align=\"center\">" +
                         "Первая строка!!<br>" +
                         "Вторая строка!!<br>" +
-                        "Третья строка!<br>" +
+                        "Третья строка!!<br>" +
                         "Четвертая строка!<br>" +
                         "</h1>"
         );
