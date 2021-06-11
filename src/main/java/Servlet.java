@@ -34,6 +34,7 @@ public class Servlet extends HttpServlet {
                         "Третья строка!!<br>" +
                         "Четвертая строка!!<br>" +
                         "Пятая строка!!!<br>" +
+                        "Шестая строка!!!<br>" +
                         "</h1>"
         );
         writer.println("</html>");
